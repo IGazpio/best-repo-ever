@@ -1,4 +1,6 @@
 # best-repo-ever
 My first repo using Git
 
-This is my first change
+I will be adding and deleting some lines here
+Alright!
+Let's go!
